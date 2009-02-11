@@ -1,6 +1,7 @@
 h1. Various Ubiquity Commands
 
+Here are some of my ubiquity commands, I'd like to figure out how to make it possible to subscribe directly from this git repos as gists do, maybe I can link up a gist for each one? That would be cool!
 
 h2. Javascript Enable / Disable
 
-Allows you to easily enable or disable javascript from ubiquity as opposed to opening your browser preferences. Just type "javascript enable" or "javascript disable". Do Work!
+Allows you to easily enable or disable javascript from ubiquity as opposed to opening your browser preferences. Just type "javascript disable" or "javascript enable".
