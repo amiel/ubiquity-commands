@@ -11,7 +11,7 @@ CmdUtils.CreateCommand({
   },
  
  
-  takes: {"enable / disable": noun_type_enable_disable},
+  takes: {"enable or disable": noun_type_enable_disable},
  
   _bool_to_enable_disable: function(value) {
     switch(value) {
