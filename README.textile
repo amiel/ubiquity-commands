@@ -4,4 +4,4 @@ Here are some of my ubiquity commands, I'd like to figure out how to make it pos
 
 h2. Javascript Enable / Disable
 
-Allows you to easily enable or disable javascript from ubiquity as opposed to opening your browser preferences. Just type "javascript enable" or "javascript disable".
+Allows you to easily enable or disable javascript from ubiquity as opposed to opening your browser preferences. Just type "javascript enable" or "javascript disable". Do Work!
